@@ -22,4 +22,4 @@ More information about the dataset is in the table below:
 
 ## How to pull
 
-Currently under development
+In order to be able to download correctly large image sequence data, please, install Git Large File Storage: https://git-lfs.github.com/
